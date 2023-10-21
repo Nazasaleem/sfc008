@@ -1,0 +1,39 @@
+.slide{
+    height: 800px;
+}
+.slide-text{
+    color: rgb(127, 0, 0);
+    font-size: 50px;
+    font-style: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+
+}
+
+.btn-text{
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.text-head{
+    padding: 50px 0;
+}
+
+.card-t{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.comnt{
+    font-family: Vast shadow;
+    font-weight: 600;
+    color: rgb(226, 223, 223);
+    font-size: 50px; 
+    margin-bottom: 539px;
+    margin-left: 800px;
+}
+.bottns{
+    margin-bottom: 536px;
+    margin-right: 771px;
+}
